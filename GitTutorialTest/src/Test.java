@@ -1,5 +1,5 @@
 /**
- * Denna klass använd för att testa metoderna vi använder i Main.
+ * Denna klass anvÃ¤nds fÃ¶r att testa metoderna vi anvÃ¤nder i Main.
  * 
  * @see Main
  * @author ByHe
